@@ -64,7 +64,7 @@ function checkname(name) {
             return "welcome back isabella";
         } else {
             return "Hello, Guest";
-
+n
         } 
         
     }
